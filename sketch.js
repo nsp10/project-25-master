@@ -35,7 +35,7 @@ function setup() {
 
 function draw() {
   rectMode(CENTER);
-  background("white");
+  background("blue");
   
   if (keyCode === DOWN_ARROW) {
 	   
